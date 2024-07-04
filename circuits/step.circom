@@ -15,7 +15,7 @@ pragma circom 2.0.5;
 include "./inputs.circom";
 include "./bls.circom";
 include "./constants.circom";
-include "./poseidon.circom";
+include "./poseidon2.circom";
 include "./ssz.circom";
 include "./sync_committee.circom";
 
